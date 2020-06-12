@@ -259,3 +259,6 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/caffe_models
+/openpose_pose_coco.prototxt
+/openpose_caffe_models.zip
